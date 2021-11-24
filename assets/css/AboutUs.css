@@ -1,0 +1,21 @@
+
+.center{
+    text-align: center;
+    font-size: 18px;
+}
+.title{
+    color: #6A7638;
+    font-size: 20px;
+    font-weight: bold;
+}
+#span{
+    color: #96B12D;
+    font-weight: bold;
+}
+.enter{
+    margin-top: 24px;
+}
+.address{
+    font-size: 12px;
+    margin-top: 8px;
+}
